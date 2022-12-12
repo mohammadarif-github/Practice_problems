@@ -1,3 +1,4 @@
+//You are given an integer n . Now print the sum of first n natural numbers.Implement it using recursion.
 #include<stdio.h>
 
 int recurse_sum(int n)
